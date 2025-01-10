@@ -26,7 +26,7 @@ public class GestionCalificaciones {
 
     private Insertar insertar;
 
-    public GestionCalificaciones() {
+    /*public GestionCalificaciones() {
         try {
             // Establecer conexión a la base de datos
             Connection connection = DriverManager.getConnection(
@@ -58,7 +58,7 @@ public class GestionCalificaciones {
 
 
         };*/
-    }
+
         public JPanel getPanel2() {
             return Panel2;
         }
