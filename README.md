@@ -1,5 +1,5 @@
 # PRUEBA2
-
+Programa en el rama Master
 Capturas:
 Main
 ![image](https://github.com/user-attachments/assets/3573ea74-d288-41d7-8dba-a6f6d88b395b)
